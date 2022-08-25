@@ -114,6 +114,6 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * I have learned that GitHub is a great way for programmers to share and explore each others code.
 
 ## What I'm Still Confused About 🤷‍♂️
-* I am still confused about how the entire workflow works in GitHub. Hopefully, with time, it will come more naturally.
+* I am still confused about how the entire workflow works within GitHub. Hopefully, with time, it will come more naturally.
 
 ![DoneSoDoneGIF](https://user-images.githubusercontent.com/111553552/186595142-f684dac9-d50c-4a23-81c9-b19a910c0a3b.gif)
